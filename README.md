@@ -1,13 +1,35 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=pedrofaustz&show_icons=true&title_color=5b5b5b&text_color=5b5b5b&icon_color=5b5b5b&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+# Olá, eu sou Pedro Faustino 
 
-### Olá, meu nome é Pedro Henrique!
-
-<p>Estudante do curso Sistemas de Informação pela a Universidade Federal Rural do Semi-Árido <br/> <br/> Eu sou desenvolvedor Back-End | Java </p>
+Desenvolvedor Backend
 
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrofaustz17@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrofaustz/" alt="LinkedIn"/></a>
-</p>
+**Linguagens**
+- Java
+
+
+**Frameworks & Ferramentas**
+- Spring Boot · Spring Security · Spring Data JPA
+
+**Bancos de Dados**
+- MySQL
+
+**Outros**
+- Docker
+- Git 
+- APIs REST
+- Maven
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=pedrofaustz&hide_border=true&locale=pt_BR"/>
+</div>
+
+---
+
+###
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrofaustz-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pedrofaustz)
+[![GitHub](https://img.shields.io/badge/GitHub-pedrofaustz-181717?style=flat&logo=github)](https://github.com/pedrofaustz)
