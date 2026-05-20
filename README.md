@@ -11,7 +11,7 @@ Desenvolvedor Backend
 - Spring Boot · Spring Security · Spring Data JPA
 
 **Bancos de Dados**
-- MySQL
+- H2
 
 **Outros**
 - Docker
