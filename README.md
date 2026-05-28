@@ -14,10 +14,10 @@ Desenvolvedor Backend
 - H2
 
 **Outros**
-- Docker
 - Git 
 - APIs REST
 - Maven
+- CRUD
 
 ---
 
