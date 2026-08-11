@@ -12,6 +12,7 @@ Desenvolvedor Backend
 
 **Bancos de Dados**
 - H2
+- PostgreSQl
 
 **Outros**
 - Git 
