@@ -22,14 +22,6 @@ Desenvolvedor Backend
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=pedrofaustz&hide_border=true&locale=pt_BR"/>
-</div>
-
----
-
 ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrofaustz-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pedrofaustz)
