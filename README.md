@@ -1,4 +1,4 @@
-# Olá, eu sou Pedro Faustino 
+# Pedro Faustino 
 
 Desenvolvedor Backend
 
